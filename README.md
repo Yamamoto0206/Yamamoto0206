@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuta Yamamoto</h1>
-<h3 align="center">I'm graduate student in Hokkaido Univ, m</h3>
+<h4>I am a graduate student at Hokkaido University specializing in data science, machine learning, and computer science. </br>
+I am currently researching multi-agent traffic simulation, with a particular focus on ride-sharing algorithms.</h4>
 
 <p align="left">
 </p>
